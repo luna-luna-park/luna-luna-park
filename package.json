@@ -1,5 +1,5 @@
 {
-  "name": "luna_blog",
+  "name": "luna-luna-park",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luna-luna-park/luna_blog.git"
+    "url": "git+https://github.com/luna-luna-park/luna-luna-park.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luna-luna-park/luna_blog/issues"
+    "url": "https://github.com/luna-luna-park/luna-luna-park/issues"
   },
-  "homepage": "https://github.com/luna-luna-park/luna_blog#readme",
+  "homepage": "https://github.com/luna-luna-park/luna-luna-park#readme",
   "dependencies": {
     "rss-parser": "^3.13.0"
   }
