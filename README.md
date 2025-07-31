@@ -2,12 +2,31 @@
 
 ## 이런 환경에 익숙해요✍🏼
 
+
 ## 언어
 
 <p>
   <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>  
 </p>
+
+## Databsese
+<img alt="" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+## Design
+<img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+## Frameworks, Platforms and Libraries
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)">
+<img alt="" src="">
+<img alt="" src="">
+<img alt="" src="">
+<img alt="" src="">
+<img alt="" src="">
+<img alt="" src="">
+<img alt="" src="">
+<img alt="" src="">
+
 
 ## 📕 Latest Blog Posts
 
